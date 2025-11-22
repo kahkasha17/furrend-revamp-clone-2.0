@@ -61,7 +61,6 @@ We’ve enhanced the original layout by adding **responsiveness, modern styling,
 | *Kahkasha Khan* |Contributor | [@kahkasha17](https://github.com/kahkasha17) |
 | *Harmanmeet Singh* | Contributor | [@harmanmeetpb02-dev](https://github.com/harmanmeetpb02-dev) |
 | *Rippanjot Singh* | Contributor | [@rippanjot-singh](https://github.com/rippanjot-singh) |
-| *Prerna Sharma* | Contributor | [@prernasharma400225](https://github.com/prernasharma400225)|
 | *Tanya* | Contributor |[@Tanyaacodes](https://github.com/Tanyaacodes) |
 
 ---
